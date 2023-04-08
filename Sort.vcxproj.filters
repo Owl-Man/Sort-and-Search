@@ -15,19 +15,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="heap_sort.cpp">
+    <ClInclude Include="..\..\Users\Owl\Downloads\head.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Users\Owl\Downloads\main.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="insertion_sort.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-    <ClCompile Include="main.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-    <ClCompile Include="quick_sort.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-    <ClCompile Include="selection_sort.cpp">
+    <ClCompile Include="..\..\Users\Owl\Downloads\sort-text.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>

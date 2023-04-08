@@ -19,11 +19,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="heap_sort.cpp" />
-    <ClCompile Include="insertion_sort.cpp" />
-    <ClCompile Include="main.cpp" />
-    <ClCompile Include="quick_sort.cpp" />
-    <ClCompile Include="selection_sort.cpp" />
+    <ClInclude Include="..\..\Users\Owl\Downloads\head.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Users\Owl\Downloads\main.cpp" />
+    <ClCompile Include="..\..\Users\Owl\Downloads\sort-text.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

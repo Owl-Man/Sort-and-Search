@@ -1,1 +1,2 @@
 C:\C++Proj\Sort\x64\Debug\Sort.exe
+C:\C++Proj\Sort-and-Search\x64\Debug\Sort.exe

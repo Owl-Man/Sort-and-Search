@@ -1,9 +1,12 @@
-﻿  heap_sort.cpp
-  insertion_sort.cpp
-  main.cpp
-  quick_sort.cpp
-  selection_sort.cpp
-  Создание кода...
-main.obj : error LNK2005: "void __cdecl heapify(int * const,int,int)" (?heapify@@YAXQEAHHH@Z) уже определен в heap_sort.obj
-quick_sort.obj : error LNK2005: "int __cdecl partition(int * const,int,int)" (?partition@@YAHQEAHHH@Z) уже определен в main.obj
-C:\C++Proj\Sort-and-Search\x64\Debug\Sort.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
+﻿  sort-text.cpp
+C:\Users\Owl\Downloads\sort-text.cpp(10,14): warning C4244: инициализация: преобразование "_Rep" в "int", возможна потеря данных
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+C:\Users\Owl\Downloads\sort-text.cpp(16,14): warning C4244: инициализация: преобразование "_Rep" в "int", возможна потеря данных
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+  Sort.vcxproj -> C:\C++Proj\Sort-and-Search\x64\Debug\Sort.exe
