@@ -1,12 +1,1 @@
-﻿  sort-text.cpp
-C:\Users\Owl\Downloads\sort-text.cpp(10,14): warning C4244: инициализация: преобразование "_Rep" в "int", возможна потеря данных
-          with
-          [
-              _Rep=std::chrono::system_clock::rep
-          ]
-C:\Users\Owl\Downloads\sort-text.cpp(16,14): warning C4244: инициализация: преобразование "_Rep" в "int", возможна потеря данных
-          with
-          [
-              _Rep=std::chrono::system_clock::rep
-          ]
-  Sort.vcxproj -> C:\C++Proj\Sort-and-Search\x64\Debug\Sort.exe
+﻿  Sort.vcxproj -> C:\C++Proj\Sort-and-Search\x64\Debug\Sort.exe

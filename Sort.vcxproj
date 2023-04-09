@@ -19,11 +19,12 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\Users\Owl\Downloads\head.h" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="search.cpp" />
+    <ClCompile Include="sort_text.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\Users\Owl\Downloads\main.cpp" />
-    <ClCompile Include="..\..\Users\Owl\Downloads\sort-text.cpp" />
+    <ClInclude Include="head.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
